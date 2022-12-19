@@ -1,11 +1,12 @@
-# blog
+# java 学习路线
 just a blog with issues
 持续更新中...
 
 ## 分布式
 - [eureka 和 zookeeper 怎么选](https://github.com/thatdanielhou/blog/issues/28)
 
-
+## java核心
+- java实现单例
 
 ### bug list
 
