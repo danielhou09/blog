@@ -8,7 +8,7 @@ just a blog with issues
 - [Seata与EasyTransaction对比](https://www.cnblogs.com/skyesx/p/10674700.html)
 
 ## java核心
-- java实现单例
+-  [java实现单例](https://github.com/thatdanielhou/blog/issues/30)
 
 ### bug list
 
