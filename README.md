@@ -7,7 +7,7 @@
     - [mysql](#mysql)
       - [锁](#锁)
     - [索引](#索引)
-    - [bug list](#bug-list)
+  - [bug list](#bug-list)
 
 
 # java 学习路线
@@ -20,8 +20,8 @@ just a blog with issues
 - [EasyTransaction](https://www.cnblogs.com/skyesx/p/11111726.html)
 - [Seata与EasyTransaction对比](https://www.cnblogs.com/skyesx/p/10674700.html)
 ### 分布式锁
-[一文搞懂分布式锁](https://cloud.tencent.com/developer/article/1815881)
-[zookeeper+snowflake 生成订单号](https://www.cnblogs.com/crazymakercircle/p/10226870.html)
+- [一文搞懂分布式锁](https://cloud.tencent.com/developer/article/1815881)
+- [zookeeper+snowflake 生成订单号](https://www.cnblogs.com/crazymakercircle/p/10226870.html)
 ## java核心
 -  [java实现单例](https://github.com/thatdanielhou/blog/issues/30)
 
@@ -31,9 +31,9 @@ just a blog with issues
 [msyql的各种锁](https://blog.csdn.net/weixin_46991815/article/details/124605725)
 ### 索引
 
-### bug list
+## bug list
 
-[java 出现unreachable statement异常 原因检查](https://github.com/danielhou09/blog/issues/24)
+- [java 出现unreachable statement异常 原因检查](https://github.com/danielhou09/blog/issues/24)
 
-[uoteReplacement避免报错$符报错](https://github.com/danielhou09/blog/issues/25)
+- [uoteReplacement避免报错$符报错](https://github.com/danielhou09/blog/issues/25)
 
