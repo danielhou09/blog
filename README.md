@@ -3,10 +3,13 @@ just a blog with issues
 持续更新中...
 
 ## 分布式
+### 分布式事务
 - [eureka 和 zookeeper 怎么选](https://github.com/thatdanielhou/blog/issues/28)
 - [EasyTransaction](https://www.cnblogs.com/skyesx/p/11111726.html)
 - [Seata与EasyTransaction对比](https://www.cnblogs.com/skyesx/p/10674700.html)
-
+### 分布式锁
+[一文搞懂分布式锁](https://cloud.tencent.com/developer/article/1815881)
+[zookeeper+snowflake 生成订单号](https://www.cnblogs.com/crazymakercircle/p/10226870.html)
 ## java核心
 -  [java实现单例](https://github.com/thatdanielhou/blog/issues/30)
 
