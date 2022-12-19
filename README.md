@@ -4,6 +4,8 @@ just a blog with issues
 
 ## 分布式
 - [eureka 和 zookeeper 怎么选](https://github.com/thatdanielhou/blog/issues/28)
+- [EasyTransaction](https://www.cnblogs.com/skyesx/p/11111726.html)
+- [Seata与EasyTransaction对比](https://www.cnblogs.com/skyesx/p/10674700.html)
 
 ## java核心
 - java实现单例
