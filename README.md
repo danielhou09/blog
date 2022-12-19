@@ -13,6 +13,12 @@ just a blog with issues
 ## java核心
 -  [java实现单例](https://github.com/thatdanielhou/blog/issues/30)
 
+## 存数
+### mysql
+#### 锁
+[msyql的各种锁](https://blog.csdn.net/weixin_46991815/article/details/124605725)
+### 索引
+
 ### bug list
 
 [java 出现unreachable statement异常 原因检查](https://github.com/danielhou09/blog/issues/24)
