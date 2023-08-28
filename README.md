@@ -29,6 +29,8 @@ just a blog with issues
 ### mysql
 #### 锁
 [msyql的各种锁](https://blog.csdn.net/weixin_46991815/article/details/124605725)
+
+[mysql 的锁](https://github.com/danielhou09/blog/issues/83)
 ### 索引
 - [索引备注](https://github.com/houdq/blog/issues/34)
 ## bug list
